@@ -1,6 +1,6 @@
 import "@testing-library/jest-dom";
 import { render,screen } from "@testing-library/react";
-import {Contactus} from "../Contactus.jsx"
+import Contactus from "../Contactus.jsx"
 
 
 

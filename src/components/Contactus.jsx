@@ -1,6 +1,6 @@
 
 
-export function Contactus() {
+  function Contactus() {
 
     return(
         <div className="w-[900px] flex flex-col mx-auto text-center p-4 shadow-2xl">
@@ -21,4 +21,4 @@ export function Contactus() {
 }
 
 
-// export default Contactus;
+  export default Contactus;

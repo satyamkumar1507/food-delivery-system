@@ -1,3 +1,5 @@
-export function Sum(a, b) {
+ function Sum(a, b) {
   return a + b;
 }
+
+export default Sum;

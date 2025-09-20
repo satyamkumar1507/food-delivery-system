@@ -4,6 +4,8 @@ import { CDN_URL } from "../utils/constants";
 function RestrauntCard(props) {
     const result = props.allres
     
+   console.log("allres",result);
+
     const {
     cloudinaryImageId,
     name,
